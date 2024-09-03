@@ -1,0 +1,39 @@
+Python :
+Python is a high level general purpose programming.
+
+High Level : python’s syntax is as simple as like English.
+
+General Purpose : 
+1.App Development->desktop/webapps
+2.Game Development
+3.Data Science - 
+4.Ethical hacking
+5.Automation Testing
+
+Features of Python:
+1.Open Source 
+2.General purpose
+3.High level
+4.Dynamically Typed Programming
+5.Interpreted Programming
+
+
+Data Types:
+x = 5
+type(x)
+<class 'int'>
+x = True
+type(x)
+<class 'bool'>
+x = 0.5
+type(x)
+<class 'float'>
+x = "hello"
+type(x)
+<class 'str'>
+x = 3+4j#j is iota
+x
+(3+4j)
+type(x)
+<class 'complex'>
+
